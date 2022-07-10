@@ -1,6 +1,7 @@
 
 ## Features
 
+
 * Gulp ready (compiles Sass and minifies JS)
 * Sass ready with lots of commenting
 * Fully responsive
